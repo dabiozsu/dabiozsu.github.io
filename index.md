@@ -1,4 +1,4 @@
-![yey](images.jpeg)
+![yey](N予備校ロゴ.png)
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38372752/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38372752">プロペラダウンフォースミニ四駆「改」の動画</a></noscript>
 
