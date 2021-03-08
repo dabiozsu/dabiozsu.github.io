@@ -1,7 +1,6 @@
 ![yey](images.jpeg)
 
-<div class="youtube">
-<iframe src="https://www.youtube.com/embed/yX2ylWONFts" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm38372752/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm38372752">プロペラダウンフォースミニ四駆「改」の動画</a></noscript>
 
 # About
 プログラミング初心者のナミマツです。
